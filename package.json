@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/utuai-labs/xmpp-chat-bot/issues"
   },
-  "homepage": "https://github.com/utuai-labs/xmpp-chat-bot#readme"
+  "homepage": "https://github.com/utuai-labs/xmpp-chat-bot#readme",
+  "dependencies": {
+    "node-xmpp-client": "^3.2.0"
+  }
 }
